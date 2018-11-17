@@ -18,7 +18,7 @@
 ### Usage
 
 ```js
-const SubtleCrypto = require('subtle-crypto/common')
+const SubtleCrypto = require('subtle-crypto')
 
 // If running in the browser
 SubtleCrypto === window.SubtleCrypto
