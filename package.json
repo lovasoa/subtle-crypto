@@ -1,0 +1,9 @@
+{
+  "name": "subtle-crypto",
+  "version": "0.0.0",
+  "description": "Using Web Crypto's Subtle APIs in the browser and Node.js",
+  "main": "lib/index.js",
+  "repository": "https://github.com/usermirror/subtle-crypto",
+  "author": "UserMirror, Inc. <open@usermirror.com>",
+  "license": "MIT"
+}
