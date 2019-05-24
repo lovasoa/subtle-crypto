@@ -1,9 +1,9 @@
 {
   "name": "subtle-crypto",
-  "main": "lib/subtlecrypto.js",
-  "module": "lib/subtlecrypto.mjs",
-  "umd:main": "lib/subtlecrypto.umd.js",
-  "version": "0.0.0",
+  "main": "lib/subtle-crypto.js",
+  "module": "lib/subtle-crypto.mjs",
+  "umd:main": "lib/subtle-crypto.umd.js",
+  "version": "0.0.1",
   "description": "Using Web Crypto's Subtle APIs in the browser and Node.js",
   "repository": "https://github.com/usermirror/subtle-crypto",
   "author": "UserMirror, Inc. <open@usermirror.com>",
